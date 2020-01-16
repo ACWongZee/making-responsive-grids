@@ -20,7 +20,7 @@ body {
   margin: 0;
 }
 
-.imge-flex {
-  display: #000;
+.img-flex {
+  display: block;
   width: 100%;
 }
